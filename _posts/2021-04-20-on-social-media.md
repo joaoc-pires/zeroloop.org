@@ -2,8 +2,6 @@
 layout: post
 title: My Troubled Relationship With Social Media
 subtitle: I deleted Facebook years ago, but still use twitter, sometimes…
-<!--gh-repo: daattali/beautiful-jekyll-->
-<!--gh-badge: [star, fork, follow]-->
 tags: [personal, social media]
 comments: false
 ---
