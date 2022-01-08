@@ -1,4 +1,3 @@
-Minimalist to a fault
 ---
 layout: post
 title: Minimalist to a fault
