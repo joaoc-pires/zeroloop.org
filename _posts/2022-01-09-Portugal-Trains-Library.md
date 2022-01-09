@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portugal Trains Library
-subtitle: A Swift Library to query the [Infraestruturas de Portugal](https://www.infraestruturasdeportugal.pt) API.
+subtitle: A Swift Library to query the Infraestruturas de Portugal (IP) API.
 tags: [projects, library, swift]
 ---
 
@@ -13,7 +13,7 @@ This app allowed the users to check the time tables of trains in a given train s
 
 This library is in the core of the app’s functionality. It what allows to search for the train stations, get said stations time tables, and in the future will also allow to check the time table per train.
 
-The API however is not documented at all. It’s open in the IP’s website, but there’s no documentation, and no assurance that it will keep working in the future - but we work with what we have.
+The API however is not documented at all. It’s open in the IP’s [website](https://www.infraestruturasdeportugal.pt), but there’s no documentation, and no assurance that it will keep working in the future - but we work with what we have.
 
 # Architecture
 
