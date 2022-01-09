@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift Library: Portugal Trains
+title: Swift Library - Portugal Trains
 subtitle: A Swift Library to query the Infraestruturas de Portugal (IP) API.
 tags: [projects, library, swift]
 ---
