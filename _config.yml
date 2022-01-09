@@ -15,8 +15,10 @@ author: Joao Pires
 
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Ares - RSS Reader: "https://ares-reader.app"
+  Ares - RSS Reader:
+    - website: "https://ares-reader.app"
+    - App Store: "https://apps.apple.com/us/app/ares-rss-reader/id1560552142"
+  Other Projects:
     - PortugalTrains: "https://github.com/joaoc-pires/PortugalTrains"
     - HoN Announcer: "https://www.wowinterface.com/downloads/info25699-HoNAnnouncerREMADE.html"
 
